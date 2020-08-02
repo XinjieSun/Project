@@ -1,4 +1,4 @@
-# Project
+# Meal-Planning Recommended System
 * The project is opted to design a user-friendly meal plan recommendation system that aims to help two individuals plan out their dinner for five days and allocate cooking time based on their combined schedule. 
 * Generate user profiles containing the users’ health condition, eating preference, schedule, and spending habits from user inputs.
 * Through collaborative filtering, using the user profiles to predict the users’ rating on recipes they have not rated based on past user’s rating history. 
