@@ -1,0 +1,7 @@
+# Project
+  The project is opted to design a user-friendly meal plan recommendation system that aims to help two individuals plan out their dinner for five days and allocate cooking time based on their combined schedule. 
+  To achieve the objective, we first generate user profiles containing the users’ health condition, eating preference, schedule, and spending habits from user inputs.
+  Through collaborative filtering, our recommendation system is able to use the user profiles to predict the users’ rating on recipes they have not rated based on past user’s rating history. 
+  Using these prediction ratings and the user profiles, our optimization model will look to maximize the sum of both user ratings while ensuring the users’ nutritional requirements are fulfilled, the budget is contained, the food allergies are avoided, the cooking time is within the available time for the user, and the cooking time of each one in the household is similar.
+  The system will then output a meal plan with different recipes which users are most likely to enjoy, along with information on whose is cooking each day, cook time, and ingredients needed. We are able to generate different meal plans which sufficiently satisfy the users’ preference. Because our personalized meal plan could suit more individuals compared to the traditional recipe book and the self-generating process could be more timesaving for people with a busy lifestyle, our application could be a better alternative to the traditional meal planning.
+
